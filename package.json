@@ -1,0 +1,23 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "FORNO's zenn Content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forno/zenn-content.git"
+  },
+  "keywords": ["zenn"],
+  "author": "FORNO",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/forno/zenn-content/issues"
+  },
+  "homepage": "https://github.com/forno/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.74"
+  }
+}
